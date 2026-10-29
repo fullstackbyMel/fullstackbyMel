@@ -23,16 +23,9 @@
 - 📧 Email: limbagomelliza31@gmail.com
 - 🌐 Portfolio: [fullstackbyMel Portfolio](https://fullstackbymel.github.io/my-portfolio/)
 
-<!-- # 🎥 My Latest Youtube Videos -->
-
-<!-- BEGIN YOUTUBE-CARDS -->
-
-<!-- END YOUTUBE-CARDS --> =
 
 <div align="center">
 
 ### Thanks for visiting my profile! ⭐
-
-*"Life long learner"*
 
 </div>
