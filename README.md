@@ -23,12 +23,11 @@
 - 📧 Email: limbagomelliza31@gmail.com
 - 🌐 Portfolio: [fullstackbyMel Portfolio](https://fullstackbymel.github.io/my-portfolio/)
 
-# 🎥 My Latest Youtube Videos
+<!-- # 🎥 My Latest Youtube Videos -->
 
 <!-- BEGIN YOUTUBE-CARDS -->
-[![A Quick Update of my life from ICT teacher to Developer](https://ytcards.demolab.com/?id=_oDgfrfnHkA&title=A+Quick+Update+of+my+life+from+ICT+teacher+to+Developer&lang=en&timestamp=1791204755&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "A Quick Update of my life from ICT teacher to Developer")](https://www.youtube.com/watch?v=_oDgfrfnHkA)
-<!-- END YOUTUBE-CARDS -->
 
+<!-- END YOUTUBE-CARDS --> =
 
 <div align="center">
 
